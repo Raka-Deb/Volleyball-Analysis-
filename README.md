@@ -2,6 +2,12 @@
 
 This document provides a detailed report of the exploratory data analysis (EDA) performed on the Volleyball Nations League (VNL) 2023 dataset (`VNL2023.csv`). The dataset contains performance statistics for volleyball players, including their attack, block, serve, set, dig, receive, and position, along with their country and age. The analysis was conducted using Python with libraries such as `pandas`, `numpy`, `matplotlib`, and `seaborn`. Below are the key findings from the EDA, organized by section.
 
+
+![image alt](https://github.com/Raka-Deb/Volleyball-Analysis-/blob/b131f716d2e7522279d8610462bb7daa6eea138d/Vollyball.avif)
+
+
+
+
 ## Dataset Overview
 
 - **Source**: The dataset is stored in `VNL2023.csv`.
